@@ -1,2 +1,2 @@
 # limesurvey-api-test
-Tests for the Lime Survey JSON-RPC API
+A simple suite of tests to test the Lime Survey JSON-RPC API
