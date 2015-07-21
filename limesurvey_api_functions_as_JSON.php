@@ -2,7 +2,7 @@
 
 	// Initial values
 
-	$limesurvey_api_endPoint = '<lime_survey_url>';
+	$limesurvey_api_endPoint = '<lime_survey_url>';  //(e.g. http://www.limesurveyinrootdomain.com/index.php/admin/)
 	$username = '<username>';
 	$password = '<password>';
 	$survey_id = <survey_id>;
